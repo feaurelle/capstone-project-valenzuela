@@ -1,0 +1,138 @@
+*, p, li {
+	font-family: font-family: 'Kanit', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+ul {
+	list-style: none;
+}
+/*Landing*/
+
+h1 {
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+#landing {
+	padding-bottom: 5vh;
+}
+
+.txt > img {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	display: flex;
+	margin: auto;
+	padding: 5vh 5vh;
+}
+
+.txt {
+	color: white;
+	font-family: 'Chakra Petch', sans-serif;
+	text-align: center;
+	margin: auto;
+	padding: 5vh;
+}
+
+/*Landing*/
+
+/*About*/
+
+#about > .main {
+	font-family: 'Chakra Petch', sans-serif;
+	float: left;
+	margin: auto;
+	padding: 5vh;
+	display: flex;
+}
+
+#about > .txt1 {
+	display: flex;
+	text-align: center;
+	margin: auto;
+	padding: 5vh 5vh;
+}
+
+#about > .txt2 {
+	display: inline-flex;
+	flex-direction: column;
+	text-align: center;
+	margin: auto;
+	padding: 5vh 5vh;
+}
+
+/*Hobbies*/
+.main2 > h1 {
+	font-family: 'Chakra Petch', sans-serif;
+	float: left;
+	margin: auto;
+	padding: 5vh;
+	display: flex;
+}
+
+.main2 > .txt1 {
+	display: flex;
+	text-align: center;
+	margin: auto;
+	padding: 5vh 5vh;
+}
+
+.main2 > .main3 {
+	font-family: 'Chakra Petch', sans-serif;
+	text-align: center;
+	margin: auto;
+	padding: 5vh;
+	padding-bottom: 1rem;
+	display: flex;
+
+}
+
+.list {
+	font-family: font-family: 'Kanit', sans-serif;
+}
+
+.txt2 {
+	padding: 5vh;
+}
+/*Hobbies*/
+
+
+/*About*/
+
+/*Gallery*/
+
+#gallery > .main {
+	font-family: 'Chakra Petch', sans-serif;
+	padding-left: 5vh;
+	padding-top: 5vh;
+}
+
+img {
+	display: inline-block;
+	justify-content: center;
+	align-items: center;
+	height: 30%;
+	width: 30%;
+	padding: 2vh 2vh;
+	padding-bottom: 5vh;
+	margin: auto;
+}
+
+/*Gallery*/
+
+/*Tools*/
+
+#tools {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	padding: 5vh;
+}
+
+.tools1, .tools2 {
+	font-family: 'Chakra Petch', sans-serif;
+}

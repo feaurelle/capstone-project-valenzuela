@@ -1,0 +1,72 @@
+* {
+	font-family: font-family: 'Kanit', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+ul {
+	list-style: none;
+
+}
+
+/*Landing*/
+
+#landing {
+	padding-bottom: 5vh;
+}
+
+.txt {
+	color: white;
+	font-family: 'Chakra Petch', sans-serif;
+	text-align: center;
+	margin: auto;
+	padding: 5vh;
+}
+
+/*Landing*/
+
+/*Contact*/
+
+.text {
+	color: white;
+	font-family: 'Chakra Petch', sans-serif;
+	text-align: center;
+	margin: auto;
+	padding: 5vh;
+}
+
+.seven {
+	display: flex;
+	padding-bottom: 5vh;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+}
+
+.main > .form {
+	color: white;
+	font-family: font-family: 'Kanit', sans-serif;
+}
+
+label {
+	padding-right: 10vh;
+	margin: auto;
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+input {
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	float: right;
+}
+
+#btn {
+	margin: 5vh;
+}
